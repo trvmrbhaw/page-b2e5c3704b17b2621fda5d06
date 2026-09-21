@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d25cd205f8f9de523cdc1ac4",
+  "owner": "trvmrbhaw",
+  "repo": "page-b2e5c3704b17b2621fda5d06",
+  "title": "八戒",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b2e5c3704b17b2621fda5d06",
+      "a": "八戒",
+      "b": "机场官网线路发布页",
+      "entity": "八戒",
+      "brand": "八戒",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8388b65929523ce634e3aaabdeeda6a3432db183b0604fa28e8af5ce7fa06cf4",
+      "content": {
+        "primary_entity": "八戒",
+        "keyword1": "八戒",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统挑选客户端，再按文档导入订阅地址，即可开始使用八戒加速服务。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "访问购买链接，根据设备数量与月流量挑选适合的八戒套餐。",
+          "AI_CLOSING_TITLE": "开始对比套餐",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档套餐，月付分别为 ¥15、¥35、¥85，年付对应 ¥150、¥350、¥850。基础版含 100GB 流量、3 台设备；旗舰版含 300GB 流量、5 台设备与 IPLC 专线加速；团队版含 1000GB 流量、20 台设备及企业定制路由支持。",
+          "AI_FAQ_ANSWER_1": "基础版适合 1 至 3 台设备、每月 100GB 以内的轻度使用；旗舰版适合 5 台设备以内、需要流媒体与游戏加速的用户；团队版面向 20 台设备、1000GB 流量的工作场景。",
+          "AI_FAQ_ANSWER_2": "同一时间在线的设备数量取决于所选套餐，基础版 3 台、旗舰版 5 台、团队版 20 台。若日常在手机与电脑之间切换，超出限制时会提示设备已满。",
+          "AI_FAQ_ANSWER_3": "在客户端中找到订阅或配置文件入口，粘贴购买后获得的订阅地址并更新，即可拉取节点列表。不同客户端的菜单名称略有差异，可对照对应文档操作。",
+          "AI_FAQ_ANSWER_4": "按年付比月付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。若只是短期使用，也可以先选月付体验，之后按需调整。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化，普通浏览与视频使用基础版或旗舰版的普通节点池即可。团队版提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐分别适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "一台账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "订阅地址如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "月付和年付应该怎么选？",
+          "AI_FAQ_QUESTION_5": "游戏加速和流媒体解锁用哪档套餐？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度比较套餐，能更快找到适合的选项。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按月选择更贴合使用习惯。",
+          "AI_FEATURE_TITLE_1": "按流量挑选",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数量匹配套餐。",
+          "AI_FEATURE_TITLE_2": "按设备数量匹配",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速优化，团队版支持企业定制路由与专属客户经理。",
+          "AI_FEATURE_TITLE_3": "按线路需求定位",
+          "AI_GUIDE_INTRO": "先确定设备数量和月流量，再导入订阅并更新节点列表。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "八戒加速器提供基础版、旗舰版与团队版三档订阅，覆盖 3 至 20 台设备、100GB 至 1000GB 月流量，可按设备数量与使用场景灵活选择。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付低至 ¥150",
+          "AI_HIGHLIGHT_2": "覆盖 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线加速",
+          "AI_PLANS_INTRO": "对比流量、设备数量与线路类型，基础版适合轻度使用，旗舰版兼顾流媒体与游戏，团队版面向多设备高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量，在基础版、旗舰版、团队版中挑选一档。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的在线设备数量与节点类型，确认与设备情况相符。",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TEXT_3": "依照对应客户端的文档说明，粘贴订阅地址并更新节点列表。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "八戒加速套餐对比"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "umnew.cn",
+    "host": "umnew.cn"
+  },
+  "file_hashes": {
+    "index.html": "33c46a25962dce401c802be5d3b722c443503bf9084d3d78983395e445097e56",
+    "sitemap.xml": "1a06e08248e8a2ce6abbcdaf42dbe4c85242e91652638383f27abd881509b100",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "46f2ad7d13063bb464b0b314709817cc4daf0ed79979765b170b22eef9ddb2fc",
+    "robots.txt": "bd14aa22a3c306d736f046adb263d39e371ef1055e5b0579e005d38b0ad308d9",
+    "3ac41858c50148de032e3c28b7a4d260.txt": "db0e9f11ee2fb8ed5264f33c2436c5888496c42a69f29a54356318179ac27ed7"
+  },
+  "revision": "38ea5472cdd3f9af31932e14c7ab9b58893e92e5f2db67f0826d477b357e9d33"
+}
